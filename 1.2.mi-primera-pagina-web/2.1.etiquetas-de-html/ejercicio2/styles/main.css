@@ -1,0 +1,43 @@
+
+a {
+    color: red;
+  }
+  
+  .text-link {
+    color: blue;
+  }
+  
+  #add-user {
+    font-size: 24px;
+  }
+  
+  .text-link {
+    color: rgb(92, 18, 18);
+  }
+  .text-link:hover {
+    background-color: blue;
+    color: white;
+  }
+  
+  .button {
+    background-color: grey;
+    border-radius: 20px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 1em;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  .button--new {
+    background-color: green;
+  }
+  
+  .button--rename {
+    background-color: blue;
+  }
+  
+  .button--delete {
+    background-color: red;
+  }
+  
