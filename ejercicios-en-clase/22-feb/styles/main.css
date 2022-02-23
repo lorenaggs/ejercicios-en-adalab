@@ -50,3 +50,8 @@ body {
 
   border: solid 1px black;
 }
+
+.imagen1,
+.imagen2 {
+  height: 250px;
+}
