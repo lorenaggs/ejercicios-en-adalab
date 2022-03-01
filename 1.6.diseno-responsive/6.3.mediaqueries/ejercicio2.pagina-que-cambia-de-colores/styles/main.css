@@ -1,0 +1,21 @@
+.sections {
+    background: saddlebrown;
+}
+
+@media all and (min-width: 480px) {
+    .sections {
+    background: red;
+}
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) {
+    .sections {
+    background: yellow;
+}
+}
+
+@media all and (max-width: 768px) {
+    .sections {
+    background: green;
+}
+}

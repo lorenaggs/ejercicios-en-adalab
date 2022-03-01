@@ -1,0 +1,25 @@
+.header {
+  background-color: purple;
+  position: sticky;
+  top: 0%;
+  width: 100%;
+}
+
+.modal {
+  background-color: red;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+
+.main {
+  background-color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,25 @@
+body {
+  margin: 3em 2em;
+}
+
+.semana {
+  display: flex;
+  height: 500px;
+}
+.dias {
+  border: 1px solid deeppink;
+  margin: none;
+  background-color: aquamarine;
+}
+
+.meses {
+  display: flex;
+  height: 500px;
+  flex-direction: column;
+}
+.nombremeses {
+  border: 1px solid palegreen;
+  margin: none;
+  width: 400px;
+  background-color: pink;
+}

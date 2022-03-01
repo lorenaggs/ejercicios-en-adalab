@@ -1,0 +1,10 @@
+.section{
+    display: block;
+    height: 100;
+    width: 100;
+}
+
+.div{
+    margin: 2px;
+    border: solid 2px sandybrown;
+}

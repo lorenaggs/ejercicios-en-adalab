@@ -1,0 +1,9 @@
+.header{
+    background: purple;
+    position: fixed;
+    width: 100%;
+}
+
+.main{
+    position: absolute;
+}

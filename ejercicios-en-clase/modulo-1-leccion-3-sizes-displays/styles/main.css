@@ -60,3 +60,13 @@ body {
   padding-top: 400px;
   padding-bottom: 40px;
 }
+
+.menu-list {
+  display: flex;
+  list-style: none;
+}
+
+.menu-list .link {
+  padding-left: 20px;
+  padding-right: 20px;
+}
